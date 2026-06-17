@@ -5,7 +5,7 @@ Initialized for GitHub service PAT smoke tests.
 <!-- hypertribe:sponsors:start -->
 ## Sponsors
 
-[![test-public-repo Sponsors](https://api.hypertribe.run/solana/dex/tokens/by-mint/2Rn72WLwrfXZwBvtHofQG7pL5uGqFqWDasF4Z7CuDLzb/sponsors.svg)](https://hypertribe.run/token/2Rn72WLwrfXZwBvtHofQG7pL5uGqFqWDasF4Z7CuDLzb)
+[![test-public-repo Sponsors](https://api.hypertribe.run/tokens/7dChLovbH5g9ByTm4KDp7WGPvXFYexoCZyKS7SDQVP8u/sponsors.svg)](https://hypertribe.run/token/7dChLovbH5g9ByTm4KDp7WGPvXFYexoCZyKS7SDQVP8u)
 
-Become a sponsor on [tribe.run](https://hypertribe.run/token/2Rn72WLwrfXZwBvtHofQG7pL5uGqFqWDasF4Z7CuDLzb).
+Become a sponsor on [Tribe.run](https://hypertribe.run/token/7dChLovbH5g9ByTm4KDp7WGPvXFYexoCZyKS7SDQVP8u).
 <!-- hypertribe:sponsors:end -->
